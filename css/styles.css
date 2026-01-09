@@ -194,4 +194,78 @@ header nav button{
 
 
 
+.brain-section{
+    display: flex;
+    padding: 120px;
+}
+
+
+.brain-contect{
+    
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 60px;
+    text-align: left;
+}
+
+.brain-contect h4{
+    line-height: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    color:#469165;
+    margin-bottom: 16px;
+
+}
+
+.brain-contect h2{
+   
+    font-size: 48px;
+    font-weight: 800;
+    color:#001931;
+    margin-bottom: 16px;
+    
+
+
+
+
+}
+
+
+
+
+
+.brain-contect p{
+    line-height: 20px;
+    font-size: 16px;
+    
+    color:#627382;
+    margin-bottom: 40px;
+
+}
+
+.icon-list {
+  list-style: none;
+  padding: 0;
+}
+
+
+.icon-list li{
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 16px;
+  color: #001931;
+  
+}
+
+
+
+
+
+
+
 
