@@ -17,6 +17,7 @@ header nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 20px;
 }
 
 header nav ul{
@@ -261,6 +262,89 @@ header nav button{
   color: #001931;
   
 }
+
+.access{
+    width: 1300px;
+    height: 350px;
+    border-radius: 12px;
+    background-color: #F7F6F2;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 120px;
+}
+
+
+.access h2{
+    font-size: 40px;
+    color: #001931;
+    font-weight: 700;
+    margin-bottom: 16px;
+
+
+}
+
+.access p{
+    max-width: 600px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #627382;
+    margin-bottom: 24px;
+
+
+}
+
+.footer {
+  min-height: 320px;
+  background: #001931;
+  
+  padding: 120px 120px 120px 80px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-right h4 {
+  color: #fff;
+  margin-bottom: 16px;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.social-icons {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+
+
+
+.footer-bottom {
+  color: #FAFAFA;
+  margin-top: 120px;
+  padding-top: 30px;
+  border-top: 1px solid rgba(255,255,255,0.2);
+  text-align: center;
+  font-size: 16px;
+  line-height: 24px;
+  
+}
+
+
+
+
+
+
+
+
+
 
 
 
